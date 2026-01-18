@@ -1,10 +1,10 @@
 # HR-Analytics-Absenteeism-Dashboard
 
-### This project analyzes employee absenteeism data to uncover patterns and insights that can support better HR decision-making.
+- This project analyzes employee absenteeism data to uncover patterns and insights that can support better HR decision-making.
 
 ## Project Overview
 
-### The goal of this project was to explore how absenteeism varies across time, workload, and employee characteristics, and to present the findings in a clear and interactive dashboard.
+- The goal of this project was to explore how absenteeism varies across time, workload, and employee characteristics, and to present the findings in a clear and interactive dashboard.
 
 ## Tools Used
 
